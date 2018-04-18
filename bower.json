@@ -1,0 +1,27 @@
+{
+  "name": "Web02Bootstrap",
+  "authors": [
+    "AngelDX <angel.condori@gmail.com>"
+  ],
+  "description": "Pagina de Turismo Puno",
+  "main": "",
+  "keywords": [
+    "turismo",
+    "lago",
+    "chullpas"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "bootswatch": "^4.0.0",
+    "jquery": "3.2.1"
+  }
+}
